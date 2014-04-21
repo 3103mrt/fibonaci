@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fibonaci {
+public class fibonacisum {
 	public static void main (String args[]) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Masukkan inputan anda: ");
